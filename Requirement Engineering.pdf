@@ -1,0 +1,19 @@
+Homework 2 
+Requirement Engineering 
+
+
+Task 2 
+Function: Adding two arrays listed as digits and return the result
+Description: The program will take two arrays list and where in each array, represents a number, and it will add the two numbers and store it in a new array list. 
+Inputs: Array1 and Array 2
+Source: The arrays from the assignment question
+Outputs: The new array
+Destination: The output
+Action: When all the numbers in the array is combined, it creates a number. The number from both the array then is added and stores in a new array like the original arrays. Then the new array is returned. 
+Requirements: Two arrays 
+Pre-condition: Each array must be a non-negative number. 
+Post-condition: If the result is larger than an integer then it will return an empty array.
+Side effects: None
+
+
+
